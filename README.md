@@ -1,4 +1,8 @@
-### Hi there 👋
+About me:
++ Majoring in Computer Science with Business Analytics Certification at the Univerity of Cincinnati
++ Product Manager Co-op at Emerson Electric
++ Data Science, Data Analytics, Data Visualization enthusiast
++ Fun Fact - I have traveled to 14 countries and I have 44 shoes
 
 <!--
 **siddharthurankar/siddharthurankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
